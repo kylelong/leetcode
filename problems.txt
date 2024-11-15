@@ -1,0 +1,15 @@
+grind 169
+----------
+https://gist.github.com/underscoDe/f129cc07dc4732cab0730f451451dea8 
+https://leetcode.com/problem-list/ar244hmv/?difficulty=EASY 
+
+[ completed ]
+
+array
+------
+
+two sum - https://leetcode.com/problems/two-sum
+best time to buy and sell stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+majority element - https://leetcode.com/problems/majority-element
+contains duplicate - https://leetcode.com/problems/contains-duplicate/
+move zeroes - https://leetcode.com/problems/move-zeroes/description/
