@@ -13,3 +13,7 @@ best time to buy and sell stock - https://leetcode.com/problems/best-time-to-buy
 majority element - https://leetcode.com/problems/majority-element
 contains duplicate - https://leetcode.com/problems/contains-duplicate/
 move zeroes - https://leetcode.com/problems/move-zeroes/description/
+squares of sorted array - https://leetcode.com/problems/squares-of-a-sorted-array/description/ 
+
+todo:
+meeting rooms
